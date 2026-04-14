@@ -1,1 +1,1 @@
-# Ejemplo-Guiado-Pag-6-
+# Ejemplo Guiado (Pág 6)
