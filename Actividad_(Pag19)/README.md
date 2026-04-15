@@ -13,6 +13,6 @@
 
 # Reflexión
 
-- ¿Qué te llamó la atención del proyecto analizado? La escala del proyecto es impresionante: con más de 236,000 estrellas y miles de colaboradores alrededor del mundo, React demuestra cómo una librería open source puede convertirse en un estándar de la industria.
-- ¿Te gustaría contribuir a un proyecto open source? ¿Por qué? Sí, porque contribuir a proyectos como React permite aprender de desarrolladores experimentados, mejorar habilidades reales de programación y dejar un impacto en herramientas que millones de personas usan a diario.
-- ¿Qué habilidades necesitas fortalecer para participar activamente? Mejorar el dominio de JavaScript, aprender a leer y entender código de otros, y familiarizarse más con Git y el flujo de trabajo con Pull Requests.
+- **¿Qué te llamó la atención del proyecto analizado?** La escala del proyecto es impresionante: con más de 236,000 estrellas y miles de colaboradores alrededor del mundo, React demuestra cómo una librería open source puede convertirse en un estándar de la industria.
+- **¿Te gustaría contribuir a un proyecto open source?** ¿Por qué? Sí, porque contribuir a proyectos como React permite aprender de desarrolladores experimentados, mejorar habilidades reales de programación y dejar un impacto en herramientas que millones de personas usan a diario.
+- **¿Qué habilidades necesitas fortalecer para participar activamente?** Mejorar el dominio de JavaScript, aprender a leer y entender código de otros, y familiarizarse más con Git y el flujo de trabajo con Pull Requests.
